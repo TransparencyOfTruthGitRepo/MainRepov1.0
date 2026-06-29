@@ -1,0 +1,11 @@
+# Secrets - never commit
+secrets/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
